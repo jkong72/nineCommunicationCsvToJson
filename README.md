@@ -1,1 +1,7 @@
-# nineCommunicationCsvToJson
+# 나인커뮤니케이션 백엔드 개발자 면접 사전 테스트 (자바)
+
+<h3>개발 환경</h3>
+jdk 17.0.3 </br>
+json-simple 1.1.1 </br>
+<hr/>
+자바로 csv자료를 json 형식으로 변환하고 특정한 id(key)의 값만 파싱하여 출력하는 프로그램입니다.
